@@ -81,5 +81,7 @@ The fix required instrumenting every agent operation with structured logging fro
 - **LangSmith** (https://smith.langchain.com) — LangChain's native observability and evaluation platform; strong integration for LangChain and LangGraph agents
 - **Helicone** (https://helicone.ai) — proxy-based LLM observability with request logging, cost tracking, and custom property tagging
 - **OpenTelemetry** (https://opentelemetry.io) — vendor-neutral instrumentation standard; use for building portable, standards-compliant agent traces
+- **ClickHouse** (https://clickhouse.com) — columnar database for high-throughput log ingestion and fast SQL-based forensic queries; append-only MergeTree tables provide tamper-resistant storage at scale
+- **Langfuse + ClickHouse** — Langfuse captures LLM traces and scores; ClickHouse serves as the analytical backend for querying security events across millions of agent interactions
 - **Grafana + Loki** (https://grafana.com/oss/loki/) — open-source log aggregation and dashboarding for teams that prefer a self-hosted observability stack
 - **AWS CloudTrail / GCP Cloud Audit Logs / Azure Monitor** — cloud-native audit logging for agent infrastructure and API calls at the platform level

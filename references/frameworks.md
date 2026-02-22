@@ -82,6 +82,18 @@ Open-source LLM observability platform with a focus on cost tracking, latency mo
 
 ---
 
+## Log Storage and Analytics
+
+### ClickHouse
+
+High-performance columnar database built for real-time analytics. Relevant to agent security as a log storage backend: append-only MergeTree tables handle high-throughput log ingestion, and SQL-based queries enable fast forensic analysis across millions of agent interactions. Supports parameterized queries and read-only user profiles for least-privilege agent access.
+
+- Website: https://clickhouse.com
+- GitHub: https://github.com/ClickHouse/ClickHouse
+- Documentation: https://clickhouse.com/docs
+
+---
+
 ## Research and Reports
 
 - [Teleport: State of AI in Enterprise Infrastructure Security (Feb 2026)](https://www.globenewswire.com/news-release/2026/02/17/3239200/0/en/New-Teleport-Research-Reveals-AI-Security-Crisis-in-the-Enterprise-Over-Privileged-AI-Systems-Drive-4.5x-Higher-Incident-Rates.html) — 88% of enterprises reported AI agent security incidents; 4.5x higher incident rate for over-privileged systems.

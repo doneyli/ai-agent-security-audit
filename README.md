@@ -63,6 +63,7 @@ See [adversarial-tests/](adversarial-tests/) for the full collection.
 | Langfuse | Open-source LLM observability and tracing | https://langfuse.com |
 | LangSmith | LLM tracing and evaluation platform | https://smith.langchain.com |
 | Helicone | LLM observability with security event support | https://www.helicone.ai |
+| ClickHouse | Columnar database for high-throughput log storage and SQL-based forensic queries | https://clickhouse.com |
 
 ---
 

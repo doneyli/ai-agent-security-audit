@@ -84,4 +84,6 @@ The fix required two changes: write-protect the memory segments containing core 
 - **OWASP ZAP** (https://www.zaproxy.org) — web application security scanner useful for testing agent API endpoints for injection and traversal vulnerabilities
 - **Semgrep** (https://semgrep.dev) — static analysis for finding missing input validation in agent code before deployment
 - **LlamaIndex security patterns** (https://docs.llamaindex.ai) — retrieval pipeline configuration guidance including poisoning mitigations
+- **Langfuse** (https://langfuse.com) — trace retrieval pipeline behavior and internal boundary crossings to detect poisoning attempts and unexpected data flows
+- **ClickHouse** (https://clickhouse.com) — use parameterized queries and role-based access when agents query analytical databases; ClickHouse supports query-level settings and read-only user profiles to enforce least-privilege
 - **MITRE ATLAS** (https://atlas.mitre.org/) — adversarial techniques including data poisoning and supply chain attacks relevant to RAG architectures

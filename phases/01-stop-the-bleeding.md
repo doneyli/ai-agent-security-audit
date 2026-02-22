@@ -52,4 +52,5 @@ This phase is primarily architectural. No specialized tool is required to implem
 
 - **LangGraph** (https://langchain-ai.github.io/langgraph/) — built-in support for human-in-the-loop interrupts in agent graphs
 - **LangChain Human Approval** (https://python.langchain.com/docs/how_to/human_in_the_loop/) — tool-level approval patterns
+- **Langfuse** (https://langfuse.com) — trace approval flows end-to-end: capture what triggered the request, the context shown to the approver, the decision, and latency; score approval events for audit completeness
 - **Temporal** (https://temporal.io) — durable workflow orchestration with explicit approval steps for long-running agent tasks

@@ -85,7 +85,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add attack vectors, test cases
 
 ## Author
 
-**Don Eyli** — Principal AI Architect at ClickHouse. Founding team, Snowflake's GenAI practice. 20+ years in data and AI.
+**Doneyli** — Principal AI Architect at ClickHouse. Founding team, Snowflake's GenAI practice. 20+ years in data and AI.
 
 Newsletter: [Signal over Noise](https://doneyli.substack.com) — Weekly frameworks for enterprise AI practitioners.
 

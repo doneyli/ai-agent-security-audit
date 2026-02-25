@@ -4,6 +4,8 @@
 
 **A 5-phase framework for auditing AI agent security. Born from a real audit that found 18 vulnerabilities.**
 
+> **Building with AI agents?** Subscribe to [Signal over Noise](https://doneyli.substack.com/) — weekly frameworks for production AI systems, including security patterns you won't find in docs. From 20+ years of building enterprise AI.
+
 ---
 
 ## Quick Start
@@ -84,11 +86,20 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add attack vectors, test cases
 
 ---
 
-## Author
+## Next Steps
 
-**Doneyli** — Principal AI Architect at ClickHouse. Founding team, Snowflake's GenAI practice. 20+ years in data and AI.
+Found vulnerabilities in your agents? Here's how to go deeper:
 
-Newsletter: [Signal over Noise](https://doneyli.substack.com) — Weekly frameworks for enterprise AI practitioners.
+- **[Subscribe to Signal over Noise](https://doneyli.substack.com/)** — Weekly AI security patterns, implementation frameworks, and "I Built X" tutorials
+- **[Take the AI Readiness Quiz](https://doneyli.substack.com/)** — 5 questions, 2 minutes. See where your team stands on AI implementation readiness *(coming soon)*
+- **[Read: 18 Vulnerabilities Found in 4 Hours](https://doneyli.substack.com/)** — The newsletter deep-dive on what this audit uncovered
+
+## About the Author
+
+**Don De Jesus** — Principal AI Architect at ClickHouse. 20+ years building data and AI systems at Deutsche Bank, Verizon, Cloudera, Elastic, and Snowflake. I build AI security frameworks because I've seen what happens when teams skip the audit.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/doneyli/)
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-orange)](https://doneyli.substack.com/)
 
 ---
 
